@@ -33,5 +33,10 @@ Step 2 Part 2:
   
   Start server using "adb start-server" first, python will not work without this 
   
+Step 4: OPENCV
+  I followed this site: https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
+  
+  
+  
   
   
