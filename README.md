@@ -34,9 +34,11 @@ Step 2 Part 2:
   Start server using "adb start-server" first, python will not work without this 
   
 Step 4: OPENCV
+
   I followed this site: https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
   
-  
-  
+
+
+Other Notes: I have been trying to remote desktop into the PI4 using XRDP. After the initial setup, the PI4 fails to work on both ssh and remote desktop. The best solution I could think of is to avoid remote desktop and the initial installation boot menu altogether. All development will be done remotely via ssh and vscode's ssh capabilities.
   
   
